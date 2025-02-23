@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-platf-1.0";
+const cacheName = "RainHopeGames-Rythm_Mobil-1.0";
 const contentToCache = [
     "Build/TheStormGit.loader.js",
     "Build/TheStormGit.framework.js",
